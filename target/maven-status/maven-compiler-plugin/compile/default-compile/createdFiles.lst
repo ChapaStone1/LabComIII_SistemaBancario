@@ -1,0 +1,13 @@
+ar\edu\utn\frbb\tup\Aplicacion.class
+ar\edu\utn\frbb\tup\Modelos\Cuentas\Cuenta.class
+ar\edu\utn\frbb\tup\Input\ClienteInputProcessor.class
+ar\edu\utn\frbb\tup\Input\CuentasInputProcessor.class
+ar\edu\utn\frbb\tup\Modelos\Banco.class
+ar\edu\utn\frbb\tup\Input\MenuInputProcessor.class
+ar\edu\utn\frbb\tup\Modelos\Cuentas\Movimiento.class
+ar\edu\utn\frbb\tup\Modelos\Personas\Persona.class
+ar\edu\utn\frbb\tup\Input\BaseInputProcessor.class
+ar\edu\utn\frbb\tup\Modelos\Personas\TipoPersona.class
+ar\edu\utn\frbb\tup\Modelos\Cuentas\TipoMovimiento.class
+ar\edu\utn\frbb\tup\Modelos\Personas\Cliente.class
+ar\edu\utn\frbb\tup\Input\Validaciones\Validaciones.class
